@@ -14,24 +14,20 @@ choco install desktopicons-winconfig --params "'/Desktop:NO /UserFiles:NO /Contr
 
 # Basics
 choco install geforce-experience
-choco install cmder
-choco install listary
 choco install winrar
 choco install lightshot
 
 # Browser
-choco install googlechrome
-choco install opera
+choco install microsoft-edge
 choco install firefox
 
 # Text Editor
 choco install vscode
-choco install sublimetext3
+choco install notepadplusplus
 
 # Controle de Versão de Código
 choco install git
 choco install github-desktop
-choco install gitkraken
 
 # REST Client
 choco install postman
@@ -43,10 +39,8 @@ choco install mysql
 # IDE 
 choco install jdk8
 choco install jetbrainstoolbox
-choco install netbeans
 
 # Music/Video
-choco install vlc
 choco install spotify
 
 # Others
